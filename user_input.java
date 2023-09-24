@@ -25,6 +25,7 @@ public class himel{
     }
 }*/
 
+// first step import java.util.Scanner
 import java.util.Scanner;
 
 public class user_input{
