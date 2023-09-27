@@ -18,7 +18,7 @@ public class himel{
             arr[i] = a.nextInt();
         }
         
-        System.out.println("The array you entered is: ");
+        System.out.println("The input you type: ");
         for (int i = 0; i < num; i++) {
             System.out.print(arr[i] + " ");
         }
