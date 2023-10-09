@@ -15,6 +15,11 @@ class student{
     int id;
     static  String varsityName = "Daffodil International University"; // Static key word
 }
+
+//construct a constructor:
+void student(String n, int i){
+
+}
 public class static_key {
     
 }
