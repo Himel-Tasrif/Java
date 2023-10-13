@@ -20,7 +20,7 @@ class Circle extends Shape implements Drawable {
     }
 }
 
-public class interface {
+public class interface1 {
     public static void main(String[] args) {
         Circle obj1 = new Circle(5.0);
         System.out.println("Area of the circle: " + obj1.calculateArea());
