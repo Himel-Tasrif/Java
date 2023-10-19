@@ -1,5 +1,10 @@
 // Tasrif Nur Himel
 
+/*
+ *                          *** Abstruction ***
+ * 
+ */
+
  abstract class mobileuser{
     abstract void sendmessage();
 }
